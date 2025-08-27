@@ -215,6 +215,3 @@ function cellar() {
   fi
 }
 readonly -f cellar
-
-# Execute the main function with all command-line arguments.
-cellar "$@"
